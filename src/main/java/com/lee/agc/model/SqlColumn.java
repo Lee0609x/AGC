@@ -2,10 +2,10 @@ package com.lee.agc.model;
 
 /**
  * @Author: Lee0609x
- * @Date: 2018/8/5 21:17
- * java
+ * @Date: 2018/7/28 17:28
+ * SQL
  */
-public class Column {
+public class SqlColumn {
     private String columnName;
     private String isNullable;
     private String dataType;
